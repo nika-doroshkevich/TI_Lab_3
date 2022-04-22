@@ -1,0 +1,10 @@
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\bin\Debug\Lab_3_WindowsForms.exe.config
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\bin\Debug\Lab_3_WindowsForms.exe
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\bin\Debug\Lab_3_WindowsForms.pdb
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.csproj.AssemblyReference.cache
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.Form1.resources
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.Properties.Resources.resources
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.csproj.GenerateResource.cache
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.csproj.CoreCompileInputs.cache
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.exe
+D:\2_year\4_semester\ТИ\Lab_3_WindowsForms\obj\Debug\Lab_3_WindowsForms.pdb
